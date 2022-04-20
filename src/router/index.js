@@ -13,7 +13,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/Home.vue')
   }
 ]
-
+//llll
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
