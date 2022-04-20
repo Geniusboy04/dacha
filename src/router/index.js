@@ -19,5 +19,4 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes
 })
-//llll
 export default router
