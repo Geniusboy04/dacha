@@ -20,8 +20,6 @@ require("./assets/css/fontawesome.css")
 // require("./assets/js/owl-carousel")
 
 
-
-
 Vue.config.productionTip = false
 
 new Vue({
